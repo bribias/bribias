@@ -1,12 +1,12 @@
 
-💻 Tech Stack
--Languages: JavaScript, HTML,CSS, Ruby
--Frameworks/Libraries/Packages: React, Express, Redux, Rails
--Databases:PostgresSQL
--Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodejs
--Dev Practices: TDD
+💻 Tech Stack<br>
+-Languages: JavaScript, HTML,CSS <br>
+-Frameworks/Libraries/Packages: React, Express<br>
+-Databases:PostgresSQL <br>
+-Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodejs <br>
+-Dev Practices: TDD, Jest <br><br>
 
-📱 Contact Me
-Site: https://bribias.dev/
-Email: brianna.bias@gmail.com
-LinkedIn: https://www.linkedin.com/in/brianna-bias/
+📱 Contact Me <br>
+Site: https://bribias.dev/ <br>
+Email: brianna.bias@gmail.com <br>
+LinkedIn: https://www.linkedin.com/in/brianna-bias/ <br>
