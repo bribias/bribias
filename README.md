@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**bribias/bribias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack
+-Languages: JavaScript, HTML,CSS, Ruby
+-Frameworks/Libraries/Packages: React, Express, Redux, Rails
+-Databases:PostgresSQL
+-Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodejs
+-Dev Practices: TDD
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Contact Me
+Site: https://bribias.dev/
+Email: brianna.bias@gmail.com
+LinkedIn: https://www.linkedin.com/in/brianna-bias/
