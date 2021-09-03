@@ -11,5 +11,6 @@ Site: https://bribias.dev/ <br>
 Email: brianna.bias@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/brianna-bias/ <br><br>
 
-[![Bri's GitHub stats](https://github-readme-stats.vercel.app/api?username=bribias)](https://github.com/bribias/github-readme-stats)
 
+[![Bri's GitHub stats](https://github-readme-stats.vercel.app/api?username=bribias)](https://github.com/bribias/github-readme-stats&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bribias&layout=compact)](https://github.com/bribias/github-readme-stats&show_icons=true&theme=dark)
