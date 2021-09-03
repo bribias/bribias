@@ -14,4 +14,3 @@ LinkedIn: https://www.linkedin.com/in/brianna-bias/ <br><br>
 
 ![Bri's GitHub stats](https://github-readme-stats.vercel.app/api?username=bribias&show_icons=true&theme=synthwave)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bribias&show_icons=true&theme=synthwave&layout=compact)](https://github.com/bribias/github-readme-stats)
