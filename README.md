@@ -1,10 +1,10 @@
 
 💻 Tech Stack<br>
--Languages: JavaScript, HTML, CSS <br>
--Frameworks/Libraries/Packages:  React, Express, Node.js <br>
--Databases: PostgreSQL <br>
+-Languages: JavaScript, Java, Kotlin, HTML, CSS <br>
+-Frameworks/Libraries/Packages:  TypeScript, Nextjs, React, Express, Node.js <br>
+-Databases: PostgreSQL, Mongo <br>
 -Tools: Heroku, Slack, Git, GitHub, Postman, pgAdmin, Netlify, VSCode <br>
--Testing: TDD, Jest <br> <br>
+-Testing: TDD, Jest, Playwright <br> <br>
 
 📱 Contact Me <br>
 Site: https://bribias.dev/ <br>
